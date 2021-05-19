@@ -11,17 +11,16 @@
    data-name="Layer 1"
    viewBox="0 0 64 64"
    version="1.1"
-   sodipodi:docname="jjj.svg"
+   sodipodi:docname="01d.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata25">
+     id="metadata29">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>smiley_Artboard 1</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,120 +35,31 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="687"
-     id="namedview23"
+     id="namedview27"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="33.898305"
-     inkscape:cy="30.372881"
+     inkscape:cx="57.923092"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
   <defs
-     id="defs14">
+     id="defs4">
     <style
-       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}</style>
-    <linearGradient
-       id="linear-gradient"
-       x1="45.72"
-       y1="55.39"
-       x2="24.63"
-       y2="28.08"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#f2f2f2"
-         id="stop4" />
-      <stop
-         offset="1"
-         stop-color="#cfcfcf"
-         id="stop6" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-2"
-       x1="14.82"
-       y1="33.86"
-       x2="26.43"
-       y2="51.51"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.02"
-         stop-color="#fff"
-         id="stop9" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         stop-opacity="0"
-         id="stop11" />
-    </linearGradient>
+       id="style2">.cls-1{fill:#efcc00;}.cls-2{fill:none;stroke:#efcc00;stroke-linecap:round;stroke-miterlimit:10;stroke-width:3px;}</style>
     <style
-       id="style27">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:#0baeff;}</style>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,1,361.97,0)"
-       y2="19.08"
-       x2="321.63"
-       y1="46.39"
-       x1="342.72"
-       id="linear-gradient-6">
-      <stop
-         id="stop29"
-         stop-color="#f2f2f2"
-         offset="0" />
-      <stop
-         id="stop31"
-         stop-color="#cfcfcf"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,-1,0,194.46,313.11)"
-       y2="159.83"
-       x2="289.54"
-       y1="142.19"
-       x1="277.92"
-       id="linear-gradient-2-7">
-      <stop
-         id="stop34"
-         stop-color="#fff"
-         offset="0.02" />
-      <stop
-         id="stop36"
-         stop-opacity="0"
-         stop-color="#fff"
-         offset="1" />
-    </linearGradient>
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
   </defs>
   <title
-     id="title16">smiley_Artboard 1</title>
-  <g
-     id="g64"
-     transform="matrix(0.83615964,0,0,0.83615964,7.0869986,6.9911793)"
-     style="fill:#b3b3b3">
-    <path
-       style="fill:#b3b3b3"
-       id="path43"
-       d="M 23.66,9.9 A 17.49,17.49 0 0 1 39.13,19.22 13.75,13.75 0 1 1 46,44.84 L 23.61,44.9 a 17.5,17.5 0 0 1 0,-35 z"
-       class="cls-1"
-       inkscape:connector-curvature="0" />
-    <circle
-       style="fill:#b3b3b3"
-       id="circle45"
-       transform="rotate(-74.39,46.055326,31.089096)"
-       r="13.75"
-       cy="31.09"
-       cx="46.049999"
-       class="cls-2" />
-  </g>
+     id="title6">smiley_Artboard 3</title>
   <path
-     class="cls-1"
-     d="M41.3,18.9a17.49,17.49,0,0,0-15.47,9.32,13.75,13.75,0,1,0-6.92,25.62l22.39.06a17.5,17.5,0,0,0,0-35Z"
-     id="path18" />
-  <circle
-     class="cls-2"
-     cx="18.92"
-     cy="40.09"
-     r="13.75"
-     transform="translate(-10.09 6.57) rotate(-15.61)"
-     id="circle20" />
+     id="path34"
+     d="M 28.499997,4.0000108 V 11.300792 A 20.999997,21.000005 0 0 1 32,11.000002 a 20.999997,21.000005 0 0 1 3.499991,0.31444 V 4 Z m -13.822265,5.7285182 -4.949216,4.949218 5.167966,5.167972 a 20.999997,21.000005 0 0 1 4.956056,-4.942386 z m 34.644532,0 -5.167975,5.167968 a 20.999997,21.000005 0 0 1 4.942383,4.956058 l 5.174803,-5.174808 z M 32,14.500013 A 17.499998,17.500005 0 0 0 14.499999,32.000018 17.499998,17.500005 0 0 0 32,49.500022 17.499998,17.500005 0 0 0 49.49999,32.000018 17.499998,17.500005 0 0 0 32,14.500013 Z M 4,28.500017 v 7.000002 h 7.300779 a 20.999997,21.000005 0 0 1 -0.300791,-3.500001 20.999997,21.000005 0 0 1 0.31444,-3.500001 z m 48.699211,0 A 20.999997,21.000005 0 0 1 53,32.000018 20.999997,21.000005 0 0 1 52.685555,35.500019 H 60 v -7.000002 z m -37.795893,15.647464 -5.174802,5.174808 4.949216,4.949218 5.16797,-5.167968 a 20.999997,21.000005 0 0 1 -4.942384,-4.956058 z m 34.200192,0.007 a 20.999997,21.000005 0 0 1 -4.956058,4.942387 l 5.174812,5.174804 4.949211,-4.949219 z M 28.499997,52.685544 V 60 h 6.999994 V 52.69924 A 20.999997,21.000005 0 0 1 32,53.00003 20.999997,21.000005 0 0 1 28.499997,52.68559 Z"
+     class="ColorScheme-Text"
+     style="color:#ffffff;fill:#dfdfdf;fill-opacity:1;stroke-width:3.49999952"
+     inkscape:connector-curvature="0" />
 </svg>
